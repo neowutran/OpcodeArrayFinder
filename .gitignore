@@ -1,0 +1,11 @@
+bin/
+obj/
+/release/
+resources/config/*
+resources/logs/*
+/debug/
+*.suo
+*.user
+ShinraMeter*
+resources/hotkeys.xml
+resources/window.xml
